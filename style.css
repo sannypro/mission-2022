@@ -80,3 +80,18 @@ section img{
     border-radius: 10px;
     box-shadow: grey 10px 10px 40px;
 }
+#thrid-section{
+    background-image: url(./images/shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 20%;
+    display: flex;
+    margin-top: 5%;
+}
+#measurement{
+    margin-left: 10%;
+}
+#coding-pic-width{
+    width: 40%;
+    margin-left: 10%;
+}
