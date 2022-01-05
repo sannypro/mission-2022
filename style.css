@@ -31,7 +31,7 @@ section img{
     width: 400px;
     margin-top: 10%;
 }
-#top-section{
+#first-section{
     display: flex;
 }
 
@@ -43,4 +43,40 @@ section img{
     padding: 10px 20px;
     border-radius: 6px;
     
+}
+.icon{
+    height: 100px;
+    width: 100px;
+    
+
+}
+#first-box{
+    margin-left: 6%;
+    background-color: #EDF5F5;
+    width: 20%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: grey 10px 10px 40px;
+    
+
+}
+.equal-width{
+    display: flex;
+}
+#second-box{
+    margin-left: 6%;
+    background-color: #FFEEEE;
+    width: 20%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: grey 10px 10px 40px;
+    
+}
+#thrid-box{
+    margin-left: 6%;
+    background-color: #FEF3D8;
+    width: 20%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: grey 10px 10px 40px;
 }
