@@ -88,10 +88,62 @@ section img{
     display: flex;
     margin-top: 5%;
 }
-#measurement{
+.measurement{
     margin-left: 10%;
 }
 #coding-pic-width{
     width: 40%;
     margin-left: 10%;
+}
+#project-area{
+    width: 40%;
+    margin-left: 10%;
+
+}
+#fourth-section{
+    display: flex;
+    margin-top: 5%;
+   
+}
+#bg-ring{
+    background-image: url(./images/pictures/../shapes/shape-1.png);
+     
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 200px;
+    /* margin-bottom: 10%; */
+    padding-bottom: 100px;
+    padding-right: 150px;
+
+}
+.img-width{
+    height: 400px;
+    width: 400px;
+}
+
+#flex{
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+#personal-ideas-text{
+    margin-top: 6%;
+     margin-left: 5%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    
+    
+    
+    
+}
+footer  p{
+    color: white; 
+    padding-bottom: 3%;
+}
+footer  h1{
+    color: white; 
+    padding-top: 3%;
+    
 }
