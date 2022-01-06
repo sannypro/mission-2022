@@ -5,6 +5,9 @@ section h1{
     font-size: 40px;
     
 }
+#first-section p{
+    width: 80%;
+}
 #border{
     border-left: 5px solid;
     border-image: linear-gradient(salmon,tomato);
@@ -133,6 +136,8 @@ section img{
 footer{
     text-align: center;
     background-color: black;
+    margin-bottom: 0%;
+    
     
     
     
